@@ -1,6 +1,18 @@
 ![](img/kotlin_classes.png)
 
-**PROJETO BÁSICO DA AULA - CONCEITO E PRÁTICAS SOBRE CLASSE**
+**PROJETO BÁSICO**
+
+
+
+Diagrama de classes final
+
+![](img/diagramClasses.png)
+
+
+
+
+
+**AULA CONCEITO E PRÁTICAS SOBRE CLASSE**
 
 
 Pelo fato de não ter achado o projeto zerado no github do professor,
